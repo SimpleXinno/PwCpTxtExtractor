@@ -7,7 +7,7 @@ Use 8080 port in main.py (line 59) ,if you're deploying on koyeb.
 
 ## Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SimpleXinno/PwCpTxtExtractor)
 
 ## Deploy To Koyeb
 
